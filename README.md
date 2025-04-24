@@ -24,5 +24,7 @@ Making sure the cubes stayed stable when stacked took a lot of testing.
 
 Timing the arm and claw movement in the code so it didn't drop cubes was challenging.
 
+Our code was reversed so we had to make it better.
+
 
 
