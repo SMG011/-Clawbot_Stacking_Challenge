@@ -5,6 +5,9 @@ This assignment's overview is to build and program a robot (Clawbot) to pick up 
 
 # Port assignments 
 - **Brain:** Connected to all motors and used to run the code
+- The drivetrain is ports 10 and 6
+- The arm is port 3
+- The claw is port 4
 
 # What your code does 
 The robot drives to the cube’s location using programmed commands. It lowers the arm and closes the claw to grab the cube. Then, it lifts the cube, takes a 180 degree turn, and then drives to the stacking zone. The robot lowers the arm and opens the claw to place the cube gently on the stack. It repeats the process to stack more cubes all done using the coded program (without us touching it after starting the program).
