@@ -13,21 +13,27 @@ This assignment's overview is to build and program a robot (Clawbot) to pick up 
 The robot drives to the cube’s location using programmed commands. It lowers the arm and closes the claw to grab the cube. Then, it lifts the cube, takes a 180 degree turn, and then drives to the stacking zone. The robot lowers the arm and opens the claw to place the cube gently on the stack. It repeats the process to stack more cubes all done using the coded program (without us touching it after starting the program).
 
 # Reflection on what worked / what was hard 
-**What worked:**
-The claw was able to grab the cubes tightly without dropping them.
+**What Worked:**
 
-The robot could stack two cubes successfully without the tower falling.
+The claw successfully gripped the cubes tightly without dropping them.
 
-The code ran smoothly, and the robot moved accurately to each cube location.
+We had no problems occur in making the clawbot.
 
-**What Was Hard:**
-Getting the claw to line up perfectly with the cubes was tricky.
+Communication and teamwork helped us solve problems quickly during testing.
 
-Making sure the cubes stayed stable when stacked took a lot of testing.
+Everyone in the group contributed and stayed engaged throughout the process.
 
-Timing the arm and claw movement in the code so it didn't drop cubes was challenging.
+The arm and claw coordination improved after a few tests.
 
-Our code was reversed so we had to make it better.
+**What Was Challenging:**
 
+Aligning the claw perfectly with the cubes was tricky and required careful adjustments.
 
+Keeping the cubes stable while stacking them took a lot of testing and fine-tuning.
+
+Timing the movements of the arm and claw in the code was difficult and led to a few dropped cubes.
+
+Initially, our code was reversed, so we had to revise and improve it to function correctly.
+
+Getting the angles just right was hard because the arm would either overturn or underturn.
 
